@@ -1,0 +1,6 @@
+transformers
+torchaudio
+jiwer
+soundfile
+accelerate
+pandas
